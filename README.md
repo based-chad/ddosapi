@@ -15,7 +15,7 @@ This is just basic one but if you need more fetures dm me on discord to buy and 
 
 Fetures I Can Add
 
-> Time Limiting <br>
+> *Time Limiting <br>
 > IP Blacklist<br>
 > Validiting IP<br>
 > Getting users IP<br>
