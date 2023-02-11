@@ -9,3 +9,8 @@ This is just basic one but if you need more fetures dm me on discord to buy and 
 <br>
 <br>
 **`cd ddosapi ; python3 setup.py ; python3 api.py`**
+
+<br>
+<hr>
+
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
