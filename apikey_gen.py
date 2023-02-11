@@ -1,4 +1,5 @@
 ## API KEY GEN 
+c = "UHJvZ3JhbW1lZCBieSBiYXNlZC1jaGFkLiBodHRwczovL2dpdGh1Yi5jb20vYmFzZWQtY2hhZCwgSUcgQFNraWRzLkNyeWluZw=="
 
 import time
 import random
