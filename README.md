@@ -5,4 +5,4 @@
 This is just basic one but if you need more fetures dm me on discord to buy and add more fetures
 
 <h2>Install</h2>
-**``git clone https://github.com/based-chad/ddosapi.git``** 
+``git clone https://github.com/based-chad/ddosapi.git``
