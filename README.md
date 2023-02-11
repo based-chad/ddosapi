@@ -6,3 +6,4 @@ This is just basic one but if you need more fetures dm me on discord to buy and 
 
 ## Install
 **`git clone https://github.com/based-chad/ddosapi.git`**
+**`cd ddosapi ; python3 setup.py`**
