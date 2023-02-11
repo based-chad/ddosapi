@@ -13,4 +13,11 @@ This is just basic one but if you need more fetures dm me on discord to buy and 
 <br>
 <hr>
 
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+Fetures I Can Add
+
+> Time Limiting
+> IP Blacklist
+> Validiting IP
+> Getting users IP
+> Email or Discord Notifications when a request is sent to the API and telling you the status on everything
+> And much more
