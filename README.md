@@ -1,12 +1,10 @@
 **I DO NOT TAKE RESPONSIBILITY FOR YOUR ACTIONS OR WHAT YOU DO WITH THIS**
 
-#--------------------------------#
-# Programmed By @Skids.Crying    #
-# https://github.com/based-chad  #
-# Free BBoS tool for skids       #
-# Follow on IG @Skids.crying     #
-# https://discord.gg/H4sfJDrs52  #
-#--------------------------------#
+
+ https://github.com/based-chad  
+ Follow on IG @Skids.crying     
+ https://discord.gg/H4sfJDrs52  
+
 
 
 # DDoS API in Python
