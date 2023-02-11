@@ -15,14 +15,9 @@ This is just basic one but if you need more fetures dm me on discord to buy and 
 
 Fetures I Can Add
 
-> Time Limiting
-<br>
-> IP Blacklist
-<br>
-> Validiting IP
-<br>
-> Getting users IP
-<br>
-> Email or Discord Notifications when a request is sent to the API and telling you the status on everything
-<br>
+> Time Limiting <br>
+> IP Blacklist<br>
+> Validiting IP<br>
+> Getting users IP<br>
+> Email or Discord Notifications when a request is sent to the API and telling you the status on everything<br>
 > And much more
